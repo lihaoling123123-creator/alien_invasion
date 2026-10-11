@@ -1,0 +1,3 @@
+pygame>=2.5.0
+# 说明：Python 3.14 及以上请安装 pygame-ce（API 与 pygame 完全一致）：
+#   pip install pygame-ce

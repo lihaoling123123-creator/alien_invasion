@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# 构建产物（exe 由 PyInstaller 生成，可用 README 中的命令重新构建）
+build/
+dist/
+*.spec
+
+# 运行时文件
+high_score.json
+error.log
+smoke_test_result.txt
