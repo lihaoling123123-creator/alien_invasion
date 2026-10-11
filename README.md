@@ -34,6 +34,10 @@ python alien_invasion.py
 dist\外星人入侵.exe
 ```
 
+也可从 GitHub Release 直接下载打包好的单文件版：
+**https://github.com/lihaoling123123-creator/alien_invasion/releases/tag/v1.0**
+（附件 `AlienInvasion-v1.0-win64.exe`，下载后双击运行，可重命名为「外星人入侵.exe」）
+
 - 单文件绿色程序（约 17 MB），音效等资源已内置；
 - 双击启动；首次运行如提示安全软件拦截，请选择“允许”；
 - 崩溃时会自动在 exe 旁边生成 `error.log` 便于排查。
